@@ -1,0 +1,118 @@
+[
+ {
+  "table":"DD04L",
+  "data":
+  [
+   {
+    "ROLLNAME":"YKPI_E_CREATE_DATE_FIELD",
+    "AS4LOCAL":"L",
+    "AS4VERS":0,
+    "DOMNAME":"",
+    "ROUTPUTLEN":0,
+    "MEMORYID":"",
+    "LOGFLAG":"",
+    "HEADLEN":55,
+    "SCRLEN1":10,
+    "SCRLEN2":20,
+    "SCRLEN3":40,
+    "ACTFLAG":"",
+    "APPLCLASS":"",
+    "AUTHCLASS":0,
+    "AS4USER":"SAP_CUSTOMER",
+    "AS4DATE":"0000-00-00",
+    "AS4TIME":"00:00:00",
+    "DTELMASTER":"T",
+    "RESERVEDTE":"",
+    "DTELGLOBAL":"",
+    "SHLPNAME":"",
+    "SHLPFIELD":"",
+    "DEFFDNAME":"",
+    "DATATYPE":"CHAR",
+    "LENG":30,
+    "DECIMALS":0,
+    "OUTPUTLEN":30,
+    "LOWERCASE":"",
+    "SIGNFLAG":"",
+    "CONVEXIT":"",
+    "VALEXI":"",
+    "ENTITYTAB":"",
+    "REFKIND":"",
+    "REFTYPE":"",
+    "PROXYTYPE":"",
+    "LTRFLDDIS":"",
+    "BIDICTRLC":"",
+    "NOHISTORY":"",
+    "ABAP_LANGUAGE_VERSION":"5"
+   }
+  ]
+ },
+ {
+  "table":"DD04T",
+  "data":
+  [
+   {
+    "ROLLNAME":"YKPI_E_CREATE_DATE_FIELD",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Date field",
+    "REPTEXT":"Date field",
+    "SCRTEXT_S":"Date field",
+    "SCRTEXT_M":"Date field",
+    "SCRTEXT_L":"Date field"
+   },
+   {
+    "ROLLNAME":"YKPI_E_CREATE_DATE_FIELD",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Tarih alanı",
+    "REPTEXT":"Tarih alanı",
+    "SCRTEXT_S":"Tarih alan",
+    "SCRTEXT_M":"Tarih alanı",
+    "SCRTEXT_L":"Tarih alanı"
+   }
+  ]
+ },
+ {
+  "table":"DDTYPES",
+  "data":
+  [
+   {
+    "TYPENAME":"YKPI_E_CREATE_DATE_FIELD",
+    "STATE":"N",
+    "TYPEKIND":"DTEL"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"DTEL",
+    "OBJ_NAME":"YKPI_E_CREATE_DATE_FIELD",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SAP_CUSTOMER",
+    "SRCDEP":"",
+    "DEVCLASS":"YKPI",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" L",
+    "MASTERLANG":"T",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2025-05-20",
+    "CHECK_DATE":"2025-05-20",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

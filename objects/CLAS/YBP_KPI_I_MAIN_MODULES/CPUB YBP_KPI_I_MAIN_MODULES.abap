@@ -1,0 +1,1 @@
+CLASS ybp_kpi_i_main_modules DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF ykpi_i_main_modules.

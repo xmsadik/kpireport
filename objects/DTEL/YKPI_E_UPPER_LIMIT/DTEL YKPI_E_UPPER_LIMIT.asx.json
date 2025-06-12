@@ -1,0 +1,118 @@
+[
+ {
+  "table":"DD04L",
+  "data":
+  [
+   {
+    "ROLLNAME":"YKPI_E_UPPER_LIMIT",
+    "AS4LOCAL":"L",
+    "AS4VERS":0,
+    "DOMNAME":"",
+    "ROUTPUTLEN":0,
+    "MEMORYID":"",
+    "LOGFLAG":"",
+    "HEADLEN":55,
+    "SCRLEN1":10,
+    "SCRLEN2":20,
+    "SCRLEN3":40,
+    "ACTFLAG":"",
+    "APPLCLASS":"",
+    "AUTHCLASS":0,
+    "AS4USER":"SAP_CUSTOMER",
+    "AS4DATE":"0000-00-00",
+    "AS4TIME":"00:00:00",
+    "DTELMASTER":"T",
+    "RESERVEDTE":"",
+    "DTELGLOBAL":"",
+    "SHLPNAME":"",
+    "SHLPFIELD":"",
+    "DEFFDNAME":"",
+    "DATATYPE":"INT4",
+    "LENG":10,
+    "DECIMALS":0,
+    "OUTPUTLEN":11,
+    "LOWERCASE":"",
+    "SIGNFLAG":"",
+    "CONVEXIT":"",
+    "VALEXI":"",
+    "ENTITYTAB":"",
+    "REFKIND":"",
+    "REFTYPE":"",
+    "PROXYTYPE":"",
+    "LTRFLDDIS":"",
+    "BIDICTRLC":"",
+    "NOHISTORY":"",
+    "ABAP_LANGUAGE_VERSION":"5"
+   }
+  ]
+ },
+ {
+  "table":"DD04T",
+  "data":
+  [
+   {
+    "ROLLNAME":"YKPI_E_UPPER_LIMIT",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Upper limit",
+    "REPTEXT":"Upper limit",
+    "SCRTEXT_S":"Up.limit",
+    "SCRTEXT_M":"Upper limit",
+    "SCRTEXT_L":"Upper limit"
+   },
+   {
+    "ROLLNAME":"YKPI_E_UPPER_LIMIT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Üst sınır",
+    "REPTEXT":"Üst sınır",
+    "SCRTEXT_S":"Üst sınır",
+    "SCRTEXT_M":"Üst sınır",
+    "SCRTEXT_L":"Üst sınır"
+   }
+  ]
+ },
+ {
+  "table":"DDTYPES",
+  "data":
+  [
+   {
+    "TYPENAME":"YKPI_E_UPPER_LIMIT",
+    "STATE":"N",
+    "TYPEKIND":"DTEL"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"DTEL",
+    "OBJ_NAME":"YKPI_E_UPPER_LIMIT",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SAP_CUSTOMER",
+    "SRCDEP":"",
+    "DEVCLASS":"YKPI",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" L",
+    "MASTERLANG":"T",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2025-05-20",
+    "CHECK_DATE":"2025-05-20",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

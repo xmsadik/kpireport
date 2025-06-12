@@ -1,0 +1,118 @@
+[
+ {
+  "table":"DD04L",
+  "data":
+  [
+   {
+    "ROLLNAME":"YKPI_E_GROUP_BY_FIELDS",
+    "AS4LOCAL":"L",
+    "AS4VERS":0,
+    "DOMNAME":"",
+    "ROUTPUTLEN":0,
+    "MEMORYID":"",
+    "LOGFLAG":"",
+    "HEADLEN":55,
+    "SCRLEN1":10,
+    "SCRLEN2":20,
+    "SCRLEN3":40,
+    "ACTFLAG":"",
+    "APPLCLASS":"",
+    "AUTHCLASS":0,
+    "AS4USER":"SAP_CUSTOMER",
+    "AS4DATE":"0000-00-00",
+    "AS4TIME":"00:00:00",
+    "DTELMASTER":"T",
+    "RESERVEDTE":"",
+    "DTELGLOBAL":"",
+    "SHLPNAME":"",
+    "SHLPFIELD":"",
+    "DEFFDNAME":"",
+    "DATATYPE":"CHAR",
+    "LENG":255,
+    "DECIMALS":0,
+    "OUTPUTLEN":255,
+    "LOWERCASE":"",
+    "SIGNFLAG":"",
+    "CONVEXIT":"",
+    "VALEXI":"",
+    "ENTITYTAB":"",
+    "REFKIND":"",
+    "REFTYPE":"",
+    "PROXYTYPE":"",
+    "LTRFLDDIS":"",
+    "BIDICTRLC":"",
+    "NOHISTORY":"",
+    "ABAP_LANGUAGE_VERSION":"5"
+   }
+  ]
+ },
+ {
+  "table":"DD04T",
+  "data":
+  [
+   {
+    "ROLLNAME":"YKPI_E_GROUP_BY_FIELDS",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Grouping fields",
+    "REPTEXT":"Grouping fields",
+    "SCRTEXT_S":"Grouping",
+    "SCRTEXT_M":"Grouping fields",
+    "SCRTEXT_L":"Grouping fields"
+   },
+   {
+    "ROLLNAME":"YKPI_E_GROUP_BY_FIELDS",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Gruplama alanları",
+    "REPTEXT":"Gruplama alanları",
+    "SCRTEXT_S":"Gruplama",
+    "SCRTEXT_M":"Gruplama alanları",
+    "SCRTEXT_L":"Gruplama alanları"
+   }
+  ]
+ },
+ {
+  "table":"DDTYPES",
+  "data":
+  [
+   {
+    "TYPENAME":"YKPI_E_GROUP_BY_FIELDS",
+    "STATE":"N",
+    "TYPEKIND":"DTEL"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"DTEL",
+    "OBJ_NAME":"YKPI_E_GROUP_BY_FIELDS",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SAP_CUSTOMER",
+    "SRCDEP":"",
+    "DEVCLASS":"YKPI",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" L",
+    "MASTERLANG":"T",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2025-05-29",
+    "CHECK_DATE":"2025-05-29",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]

@@ -1,0 +1,118 @@
+[
+ {
+  "table":"DD04L",
+  "data":
+  [
+   {
+    "ROLLNAME":"YKPI_E_DATA_COLLECTION_METHOD",
+    "AS4LOCAL":"L",
+    "AS4VERS":0,
+    "DOMNAME":"",
+    "ROUTPUTLEN":0,
+    "MEMORYID":"",
+    "LOGFLAG":"",
+    "HEADLEN":55,
+    "SCRLEN1":10,
+    "SCRLEN2":20,
+    "SCRLEN3":40,
+    "ACTFLAG":"",
+    "APPLCLASS":"",
+    "AUTHCLASS":0,
+    "AS4USER":"SAP_CUSTOMER",
+    "AS4DATE":"0000-00-00",
+    "AS4TIME":"00:00:00",
+    "DTELMASTER":"T",
+    "RESERVEDTE":"",
+    "DTELGLOBAL":"",
+    "SHLPNAME":"",
+    "SHLPFIELD":"",
+    "DEFFDNAME":"",
+    "DATATYPE":"CHAR",
+    "LENG":30,
+    "DECIMALS":0,
+    "OUTPUTLEN":30,
+    "LOWERCASE":"",
+    "SIGNFLAG":"",
+    "CONVEXIT":"",
+    "VALEXI":"",
+    "ENTITYTAB":"",
+    "REFKIND":"",
+    "REFTYPE":"",
+    "PROXYTYPE":"",
+    "LTRFLDDIS":"",
+    "BIDICTRLC":"",
+    "NOHISTORY":"",
+    "ABAP_LANGUAGE_VERSION":"5"
+   }
+  ]
+ },
+ {
+  "table":"DD04T",
+  "data":
+  [
+   {
+    "ROLLNAME":"YKPI_E_DATA_COLLECTION_METHOD",
+    "DDLANGUAGE":"E",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Data collection method",
+    "REPTEXT":"Data collection method",
+    "SCRTEXT_S":"Data metho",
+    "SCRTEXT_M":"Data coll.method",
+    "SCRTEXT_L":"Data collection method"
+   },
+   {
+    "ROLLNAME":"YKPI_E_DATA_COLLECTION_METHOD",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Veri toplama metodu",
+    "REPTEXT":"Veri toplama metodu",
+    "SCRTEXT_S":"Veri metod",
+    "SCRTEXT_M":"Veri toplama metodu",
+    "SCRTEXT_L":"Veri toplama metodu"
+   }
+  ]
+ },
+ {
+  "table":"DDTYPES",
+  "data":
+  [
+   {
+    "TYPENAME":"YKPI_E_DATA_COLLECTION_METHOD",
+    "STATE":"N",
+    "TYPEKIND":"DTEL"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"DTEL",
+    "OBJ_NAME":"YKPI_E_DATA_COLLECTION_METHOD",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SAP_CUSTOMER",
+    "SRCDEP":"",
+    "DEVCLASS":"YKPI",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" L",
+    "MASTERLANG":"T",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2025-05-20",
+    "CHECK_DATE":"2025-05-20",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]
